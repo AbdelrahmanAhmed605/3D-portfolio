@@ -1,0 +1,12 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "This project serves as a showcase of a 3D portfolio that leverages the Three.js library for rendering 3D objects, while employing Vite.js as the build tool environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
